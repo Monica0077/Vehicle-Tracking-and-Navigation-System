@@ -1,6 +1,9 @@
 # Vehicle-Tracking-and-Navigation-System
 Objective: Create a GPS-based tracking and navigation system for vehicles, where users can track their location and optimize their routes.
+
+
 Topics Covered:
+
 • Basic Syntax & Operators: Track and display vehicle coordinates (latitude, longitude).
 • Control Flow: Use conditions to check if the vehicle is off-route or near a destination.
 • OOP Concepts:
